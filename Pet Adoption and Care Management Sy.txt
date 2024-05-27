@@ -1,0 +1,16 @@
+Pet Adoption and Care Management System:
+Develop a database system for managing pet adoption processes, including pet profiles, shelters, adoption status, and medical records.
+Implement features for scheduling appointments, tracking vaccinations, and matching pets with potential adopters.
+Users can search for available pets, submit adoption applications, and receive notifications about new arrivals or adoption events.
+Animal Profiles:
+Each animal available for adoption has a detailed profile including photos, description, age, breed, temperament, and medical history.
+Profiles also include information on spaying/neutering, vaccinations, and microchip status.
+Shelter/Foster Organization Profiles:
+Organizations have dedicated profiles showcasing their mission, location, contact information, and available animals.
+Users can browse through different shelters or foster homes to find animals available for adoption.
+Search and Filter Options:
+
+Advanced filters allow users to narrow
+Adoption Process Management:
+PawsNest guides users through the adoption process, providing step-by-step instructions and requirements.
+Users can submit adoption applications directly through the platform, which are then reviewed by shelter staff or foster caregivers
